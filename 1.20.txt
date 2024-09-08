@@ -1,0 +1,6 @@
+CHANGELOG 1.20
+- added a changelog system.
+- added projects.html
+- removed subdomains.html
+- switched from cloudflare pages to apache static
+----END OF CHANGELOG----
