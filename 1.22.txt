@@ -1,0 +1,4 @@
+CHANGELOG 1.22
+- after a couple months, finally got static working
+- added the is-not.cool project
+----END OF CHANGELOG----
